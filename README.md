@@ -1,50 +1,65 @@
-Here is a **highly optimized, visually appealing GitHub README** with **logos, better UI, black background styling, and an improved aesthetic feel** using **HTML & Markdown styling** for the best GitHub experience. 🚀🔥  
-
----
-
-# **🚀 Hi, I'm Garvit Anand!**  
-### **Lead Frontend Developer | AI Enthusiast | MBA in Leadership & Strategy**  
+# 🌌 **Hi, I'm Garvit Anand!**  
+## 🚀 **Lead Frontend Developer | AI Enthusiast | MBA in Leadership & Strategy**  
 📍 Hyderabad, India | 🎓 Deakin Business School (MBA)  
 
 <div align="center">
 
-💻 **Building Next-Gen Frontend Experiences with React, Next.js & AI**  
-🤖 **AI-Powered Web Applications & Prompt Engineering**  
-🚀 **Scaling Web Performance & Cloud-based Applications**  
+🌟 **Transforming Web & AI Innovations into Scalable, High-Performance Solutions**  
+🧠 **Passionate about AI-driven Web Applications, NLP, and Prompt Engineering**  
+⚡ **Bridging the Gap Between Tech & Business with AI + MBA Strategy**  
 
 </div>  
 
 ---
 
-## **🖤 About Me**  
-🛠️ **5.5+ years** of experience in **frontend engineering** with expertise in **React.js, Next.js, and scalable architectures**.  
-🎯 **Tech Leadership + Business Strategy**, leveraging my **MBA in Leadership & Strategy**.  
-🤖 **AI Explorer:** Passionate about **AI-driven Frontend, NLP, Generative AI, and Automation**.  
-🎮 **Currently Leading Frontend Development at Gameopedia**, optimizing B2C gaming experiences for **millions of users**.  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=6AFFFA&center=true&vCenter=true&random=false&width=600&height=50&lines=Frontend+Engineer+%7C+React.js+%7C+Next.js+%7C+TypeScript;AI+Enthusiast+%7C+ML+%7C+NLP+%7C+Generative+AI;Tech+Strategist+%7C+Cloud+%7C+AWS+%7C+Azure+%7C+SaaS)" />
+</p>  
 
 ---
 
-## **💼 What I'm Working On**  
-🔹 **🤖 AI-Powered Frontend** – Implementing **LLM-powered search, automation, and AI-driven UI enhancements**.  
-🔹 **⚡ Performance Engineering** – Enhancing speed, SEO, and cloud-native architectures.  
+## 🎨 **Gradient UI Styling & AI-Powered Web**  
+<div align="center">
+
+<img src="https://img.shields.io/badge/UI/UX-Design-%23F37626?style=for-the-badge&logo=adobe&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AI/NLP-Machine%20Learning-%236A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Frontend-React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Backend-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Cloud-AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+
+</div>  
 
 ---
 
-## **📖 Learning & Collaborations**  
-🎯 **Currently Upskilling In:**  
-✔ AI & ML in Web Development (NLP, Generative AI, AWS SageMaker)  
+## 🖤 **About Me**  
+💡 **5.5+ years** of expertise in **Frontend Engineering, AI-driven UI Optimization & Cloud Architecture**  
+🎯 **Strategic Vision** – Aligning AI & Web Tech with **Business Goals**  
+🔬 **AI & NLP Enthusiast**, exploring **Generative AI & AI-powered Frontend Solutions**  
+🎮 **Currently Leading Frontend Development @ Gameopedia**, crafting gaming solutions for **millions of users**  
+
+---
+
+## 🎯 **What I'm Working On**  
+🚀 **AI-Powered Frontend** – Implementing **LLM-powered Search & AI-driven UI Automation**  
+⚡ **Performance Engineering** – Scaling **Next.js, SSR, Cloud-based optimizations & ML-powered analytics**  
+
+---
+
+## 📖 **Learning & Collaborations**  
+🎓 **Currently Upskilling In:**  
+✔ AI in Web Development (**NLP, Generative AI, AWS SageMaker**)  
 ✔ Advanced DSA & System Design  
-✔ Cloud-Native Architectures (AWS, Azure, GCP)  
+✔ Cloud-Native Architectures (**AWS, Azure, GCP**)  
 ✔ Full-Stack & Microservices  
 
 🤝 **Looking to Collaborate On:**  
-🔹 AI-Powered Web & SaaS Applications  
-🔹 Hackathons & Open-Source AI Projects  
-🔹 High-Performance Frontend Architectures  
+🔹 **AI-Powered SaaS & Web Applications**  
+🔹 **Hackathons & AI Open-Source Innovations**  
+🔹 **Performance Optimization & AI Automation**  
 
 ---
 
-## **📂 Connect With Me**  
+## 🔗 **Connect With Me**  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/garvitanand2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
@@ -58,54 +73,49 @@ Here is a **highly optimized, visually appealing GitHub README** with **logos, b
 </p>  
 
 📧 **Email:** garvitanand11@gmail.com  
-📄 [**Resume**](https://docs.google.com/document/d/1crraqup6-fWfqa2fEmbVFbDF0mc-VuwGgZMGnvZRgH4/edit?usp=sharing)   
+📄 [**Resume**](https://docs.google.com/document/d/1crraqup6-fWfqa2fEmbVFbDF0mc-VuwGgZMGnvZRgH4/edit?usp=sharing)  
 
 ---
 
-# **🛠️ Tech Stack & Skills**  
+## 🏆 **Verified Certifications**  
+✅ [React Developer Certification](https://www.educative.io/verify-certificate/nZp3lEC3ByBDNo9yAF0nN1k6OV4DsQ)  
+✅ [System Design & Architecture](https://www.educative.io/verify-certificate/5LmjqqK3g3DTR6WRnX34NxFl5ywZoD7AXsq)  
+✅ [Advanced Frontend Engineering](https://www.educative.io/verify-certificate/wk31WAB3ExVcPpZ59WyjVoIQ6930NmwAWiG)  
 
-### **🚀 Frontend Development**  
+---
+
+## 🎨 **Tech Stack & Skills**  
+
+### 🛠 **Frontend Development**  
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,bootstrap,redux" />
 </p>  
 
-### **⚙ Backend & DevOps**  
+### ⚙ **Backend & DevOps**  
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,aws,azure,docker" />
 </p>  
 
-### **🤖 AI & Data Science**  
+### 🤖 **AI & Data Science**  
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-F47C24?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>  
+<img src="https://skillicons.dev/icons?i=tensorflow,python,jupyter" />
 </p>  
 
 ---
 
-# **📊 GitHub Stats & Activity**  
+## 📊 **GitHub Stats & Activity**  
 <div align="center">  
 
-![Garvit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitanand2&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitanand2&layout=compact&theme=radical)  
+![Garvit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvitanand2&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitanand2&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garvitanand2&theme=tokyonight)  
 
 </div>  
 
 ---
 
-# **🚀 Let's Connect & Collaborate!**  
-If you're working on **cutting-edge web applications, AI projects, or open-source initiatives**, I'd love to connect!  
-
+## 🚀 **Let's Connect & Collaborate!**  
 🔹 **Looking for AI + Web Innovation Collaborations!**  
 🔹 **Available for Mentorship, Tech Talks & AI Research**  
 
 💬 **Let’s build something great together!**  
-
