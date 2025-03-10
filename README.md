@@ -45,7 +45,10 @@ Here's an **enhanced, visually engaging, and high-impact GitHub README** that al
 💼 [**LinkedIn**](https://www.linkedin.com/in/garvitanand2/)  
 📂 [**GitHub**](https://github.com/garvitanand2)  
 ✍️ [**Tech Blog (Medium/Dev.to)**](#) *(Coming Soon!)*  
-📧 **Email:** garvitanand11@gmail.com  
+📧 **Email:** garvitanand11@gmail.com *
+
+📂 [**Resume**](https://docs.google.com/document/d/1crraqup6-fWfqa2fEmbVFbDF0mc-VuwGgZMGnvZRgH4/edit?usp=sharing)   
+
 
 ---
 
@@ -110,11 +113,3 @@ If you're working on **cutting-edge web applications, AI projects, or open-sourc
 ### **🔥 Bonus: Support My Work!**  
 ☕ **[Buy Me a Coffee](#) (Coming Soon!)** – Your support helps me contribute to Open Source!  
 
----
-
-### 🔥 **This README is optimized for:**  
-✔ **SEO & Visibility** (Crisp, engaging, and impactful)  
-✔ **Professional & Engaging Tone** (Powerful yet approachable)  
-✔ **High Conversion Rate** (More recruiters, collaborations, and opportunities!)  
-
-Let me know if you'd like any **further customization or refinements! 🚀🔥**
