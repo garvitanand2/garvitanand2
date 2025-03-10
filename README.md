@@ -22,6 +22,13 @@
 
 ---
 
+## 🎓 **Certifications & Courses**
+✅ [React Developer Certification](https://www.educative.io/verify-certificate/nZp3lEC3ByBDNo9yAF0nN1k6OV4DsQ)
+✅ [System Design & Architecture](https://www.educative.io/verify-certificate/5LmjqqK3g3DTR6WRnX34NxFl5ywZoD7AXsq)
+✅ [Advanced Frontend Engineering](https://www.educative.io/verify-certificate/wk31WAB3ExVcPpZ59WyjVoIQ6930NmwAWiG)
+
+---
+
 ## 📖 **Learning & Collaborations**
 🎓 **Currently Upskilling In:**
 ✔ **NLP, Generative AI, AWS SageMaker**
@@ -63,7 +70,22 @@
 ---
 
 ## 🌍 **Connect & Collaborate**
-🔹 **Looking for AI + Web Innovation Collaborations!**
-🔹 **Available for Tech Talks, AI Research, and Strategy Consulting**
+<p align="center">
+<a href="https://www.linkedin.com/in/garvitanand2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/garvitanand2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://medium.com/@garvitanand11"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/garvitanand11"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.kaggle.com/dsgarvit"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/u/garvitanand2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.youtube.com/@geekygarvit2275"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="#" title="Coming Soon!"><img src="https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge"/></a>
+<a href="https://www.instagram.com/garvit.anand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/garvit"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+</p>
 
-💬 **Let’s build the future together!** 🚀
+---
+
+## 🚀 **Let’s Build the Future Together!**
+🔹 Passionate about **AI-driven SaaS & Scalable Web Apps?** Let’s connect!
+🔹 Open to **Tech Talks, AI Research & High-Impact Collaborations**
+💬 **DM me on [LinkedIn](https://www.linkedin.com/in/garvitanand2/) or [GitHub](https://github.com/garvitanand2) – Let’s innovate together!**
