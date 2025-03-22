@@ -61,7 +61,7 @@
 <a href="https://www.kaggle.com/dsgarvit"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://leetcode.com/u/garvitanand2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.youtube.com/@geekygarvit2275"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="#" title="Coming Soon!"><img src="https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge"/></a>
+<a href="https://garvit-profile.netlify.app/" title=""><img src="https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge"/></a>
 <a href="https://www.instagram.com/garvit.anand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!-- <a href="https://www.buymeacoffee.com/garvit"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a> -->
 </p>
