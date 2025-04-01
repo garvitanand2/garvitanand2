@@ -9,7 +9,7 @@
 </div>
 
 ## 🏆 **About Me**
-💡 **5.5+ years** crafting **high-performance, AI-powered frontend solutions**.
+💡 **6 years** crafting **high-performance, AI-powered frontend solutions**.
 🎯 **Strategic Thinker**, blending AI, SaaS, and Cloud Computing for **disruptive tech innovations**.
 🚀 **Impact Highlights:**
 ✔ **Optimized Next.js performance**, improving load speeds by **40%+**.
